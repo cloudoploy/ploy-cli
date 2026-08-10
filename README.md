@@ -61,7 +61,7 @@ Available Commands:
 
 ### Deployment and Status
 
-- `ploy deploy`: Deploy a repository to PloyCloud
+- `ploy deploy`: Deploy a repository to CloudPloy
 - `ploy list`: List all deployments
 - `ploy status`: Check the status of a deployment
 

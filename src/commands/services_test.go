@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/fatih/color"
-	"github.com/ploycloud/ploy-server-cli/src/docker"
+	"github.com/CloudPloyHQ/cli/src/docker"
 	"github.com/spf13/cobra"
 	"github.com/stretchr/testify/assert"
 )

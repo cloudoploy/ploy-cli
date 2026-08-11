@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/ploycloud/ploy-server-cli/src/docker"
+	"github.com/CloudPloyHQ/cli/src/docker"
 	"github.com/stretchr/testify/assert"
 )
 

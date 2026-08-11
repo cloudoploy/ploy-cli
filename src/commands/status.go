@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ploycloud/ploy-server-cli/src/common"
+	"github.com/CloudPloyHQ/cli/src/common"
 
 	"github.com/spf13/cobra"
 )

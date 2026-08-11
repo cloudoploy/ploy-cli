@@ -9,7 +9,7 @@ BINARY_NAME="ploy"
 BUILD_NUMBER=${GITHUB_RUN_NUMBER:-0}
 
 # Set the ldflags
-LDFLAGS="-X 'github.com/ploycloud/ploy-server-cli/cmd.BuildNumber=${BUILD_NUMBER}'"
+LDFLAGS="-X 'github.com/CloudPloyHQ/cli/cmd.BuildNumber=${BUILD_NUMBER}'"
 
 # Create or recreate the build folder
 BUILD_DIR="build"

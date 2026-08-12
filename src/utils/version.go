@@ -1,6 +1,6 @@
 package utils
 
-import "github.com/ploycloud/ploy-server-cli/src/common"
+import "github.com/CloudPloyHQ/cli/src/common"
 
 func GetVersion() string {
 	return common.CurrentCliVersion

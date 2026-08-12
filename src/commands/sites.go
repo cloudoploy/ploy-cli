@@ -12,8 +12,8 @@ import (
 	"time"
 
 	"github.com/fatih/color"
-	"github.com/ploycloud/ploy-server-cli/src/common"
-	"github.com/ploycloud/ploy-server-cli/src/docker"
+	"github.com/CloudPloyHQ/cli/src/common"
+	"github.com/CloudPloyHQ/cli/src/docker"
 	"github.com/spf13/cobra"
 )
 

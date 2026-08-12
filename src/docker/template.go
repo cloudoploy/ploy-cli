@@ -7,7 +7,7 @@ import (
 )
 
 var getGitHubURL = func() string {
-	return "https://raw.githubusercontent.com/ploycloud/ploy-server-cli/main/docker/"
+	return "https://raw.githubusercontent.com/CloudPloyHQ/cli/main/docker/"
 }
 
 func GetDockerComposeTemplate(filename string) ([]byte, error) {

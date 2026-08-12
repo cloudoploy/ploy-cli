@@ -3,15 +3,15 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/ploycloud/ploy-server-cli/src/commands"
-	"github.com/ploycloud/ploy-server-cli/src/common"
+	"github.com/CloudPloyHQ/cli/src/commands"
+	"github.com/CloudPloyHQ/cli/src/common"
 	"github.com/spf13/cobra"
 )
 
 var rootCmd = &cobra.Command{
 	Use:     "ploy",
-	Short:   "Ploy CLI - Manage your cloud deployments",
-	Long:    `Ploy CLI is a powerful tool for managing and deploying your cloud applications. You are using ploy version: ` + common.CurrentCliVersion,
+	Short:   "CloudPloy CLI - Manage your cloud deployments",
+	Long:    `CloudPloy CLI is a powerful tool for managing and deploying your cloud applications. You are using ploy version: ` + common.CurrentCliVersion,
 	Version: common.CurrentCliVersion,
 }
 

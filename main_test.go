@@ -5,9 +5,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ploycloud/ploy-server-cli/cmd"
-	"github.com/ploycloud/ploy-server-cli/src/commands"
-	"github.com/ploycloud/ploy-server-cli/src/common"
+	"github.com/CloudPloyHQ/cli/cmd"
+	"github.com/CloudPloyHQ/cli/src/commands"
+	"github.com/CloudPloyHQ/cli/src/common"
 	"github.com/stretchr/testify/assert"
 )
 

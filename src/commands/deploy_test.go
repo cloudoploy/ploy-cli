@@ -3,7 +3,7 @@ package commands
 import (
 	"testing"
 
-	"github.com/ploycloud/ploy-server-cli/src/utils"
+	"github.com/CloudPloyHQ/cli/src/utils"
 	"github.com/stretchr/testify/assert"
 )
 

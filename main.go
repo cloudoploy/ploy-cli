@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ploycloud/ploy-server-cli/cmd"
+	"github.com/CloudPloyHQ/cli/cmd"
 )
 
 var osExit = os.Exit

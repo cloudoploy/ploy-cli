@@ -1,4 +1,4 @@
-module github.com/ploycloud/ploy-server-cli
+module github.com/CloudPloyHQ/cli
 
 go 1.23.1
 

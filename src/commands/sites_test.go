@@ -12,7 +12,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ploycloud/ploy-server-cli/src/common"
+	"github.com/CloudPloyHQ/cli/src/common"
 )
 
 // Existing imports and test setup...
